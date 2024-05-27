@@ -1,4 +1,4 @@
-<h1>Hi, I'm CyberBird! </h1>
+<h1>Hi, I'm working as a cybersecurity analyst! </h1>
 >
 <h2>🔭 Cybersecurity Projects:</h2>
 
