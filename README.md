@@ -7,7 +7,7 @@
   - [PythonforCybersecurity](https://github.com/Cyberbird99/PythonforCybersecurity)
 
 - <b>Cryptography</b>
-  - [Krypton](https://github.com/Cyberbird99/Krypton>
+  - [Krypton](https://github.com/Cyberbird99/Krypton)
 <!--
 **Cyberbird99/Cyberbird99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
