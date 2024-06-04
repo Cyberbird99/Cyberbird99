@@ -7,6 +7,7 @@
   - [PythonforCybersecurity](https://github.com/Cyberbird99/PythonforCybersecurity)
 - <b>CybersecurityAutomationWithPython</b>
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
+- <b>CybersecurityAutomationWithPowerShell</b>
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
 <!--
