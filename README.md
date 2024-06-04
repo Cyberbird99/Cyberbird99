@@ -7,7 +7,7 @@
   - [PythonforCybersecurity](https://github.com/Cyberbird99/PythonforCybersecurity)
 - <b>Cybersecurity Automation with Python</b>
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
-  - [Long Analysis]
+  - [Long Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
 - <b>Cybersecurity Automation with PowerShell</b>
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
