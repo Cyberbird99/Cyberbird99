@@ -9,7 +9,7 @@
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
   - [Log Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
 - <b>Cybersecurity Automation with PowerShell</b>
-  - [PowerShell Tips For Beginners](https://github.com/Cyberbird99/PowerShellTipsForBeginners)
+ 
 - <b>PowerShell Tips For Beginners</b>
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
