@@ -11,7 +11,7 @@
 - <b>Cybersecurity Automation with PowerShell</b>
  
 - <b>PowerShell Tips For Beginners</b>
-  - [Creating Objects](https://github.com/Cyberbird99/Analyzing-Logs))
+  - [Creating Objects](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CreatingObjects)
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
 <!--
