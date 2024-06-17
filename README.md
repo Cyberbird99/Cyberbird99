@@ -3,11 +3,10 @@
 <h2>🔭 Cybersecurity Projects:</h2>
 
 
-- <b>Python</b>
-  - [PythonforCybersecurity](https://github.com/Cyberbird99/PythonforCybersecurity)
 - <b>Cybersecurity Automation with Python</b>
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
   - [Log Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
+  - [Scanners](https://github.com/Cyberbird99/Scanners)
 - <b>Cybersecurity Automation with PowerShell</b>
  
 - <b>PowerShell Tips For Beginners</b>
