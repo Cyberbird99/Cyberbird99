@@ -1,6 +1,6 @@
-<h1>Hi, I'm Nizam and a cybersecurity analyst! </h1>
->
-<h2>🔭 Cybersecurity Projects:</h2>
+<h1>Hi, I'm Nizam! </h1>
+<h1>Cybersecurity Professional </h1>
+<h2>🔭 My Cybersecurity Projects:</h2>
 
 
 - <b>Cybersecurity Automation with Python</b>
