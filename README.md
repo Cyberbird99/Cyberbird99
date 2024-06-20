@@ -10,7 +10,8 @@
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
 - <b>PowerShell Tips For Beginners</b>
-  - [Creating Objects](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CreatingObjects)
+  - [Checking Files](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CheckingFiles)
+  - [Creating Objects]()
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
 <!--
