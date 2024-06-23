@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nizam! </h1>
-<h1 style="color: red">Cybersecurity Professional</h1> 
+<h1>🌱Cybersecurity Professional🌱</h1> 
 
 <h2>🔭 My Cybersecurity Projects:</h2>
 
