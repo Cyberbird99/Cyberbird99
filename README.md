@@ -11,7 +11,7 @@
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
 - <b>PowerShell Tips For Beginners</b>
   - [Checking Files](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CheckingFiles)
-  - [Creating Objects]()
+  - [Creating Objects](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CreatingObjects)
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
 <!--
