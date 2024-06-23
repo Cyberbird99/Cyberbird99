@@ -9,9 +9,12 @@
   - [Scanners](https://github.com/Cyberbird99/Scanners)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
-- <b>PowerShell Tips For Beginners</b>
+- <b>PowerShell Tips For Automation</b>
   - [Checking Files](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CheckingFiles)
   - [Creating Objects](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CreatingObjects)
+  - [Repeating Tasks](https://github.com/Cyberbird99/Repeating-Tasks)
+  - [Replacing ElseIfs](https://github.com/Cyberbird99/Replacing-ElseIfs)
+  - [Error Handling](https://github.com/Cyberbird99/ErrorHandling)
 - <b>Cryptography</b>
   - [Krypton](https://github.com/Cyberbird99/Krypton)
 <!--
