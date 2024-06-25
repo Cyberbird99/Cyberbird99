@@ -8,6 +8,7 @@
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
   - [Log Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
   - [Scanners](https://github.com/Cyberbird99/Scanners)
+  - [Encryption](https://github.com/Cyberbird99/Encryption)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
 - <b>PowerShell Tips For Automation</b>
