@@ -9,6 +9,7 @@
   - [Log Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
   - [Scanners](https://github.com/Cyberbird99/Scanners)
   - [Encryption](https://github.com/Cyberbird99/Encryption)
+  - [Encoding](https://github.com/Cyberbird99/Encoding)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
 - <b>PowerShell Tips For Automation</b>
