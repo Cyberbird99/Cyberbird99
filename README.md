@@ -10,7 +10,7 @@
   - [Scanners](https://github.com/Cyberbird99/Scanners)
   - [Encryption](https://github.com/Cyberbird99/Encryption)
   - [Encoding](https://github.com/Cyberbird99/Encoding)
-  - [Website Blocker](https://github.com/Cyberbird99/SiteBlocker)
+  - [Site Blocker](https://github.com/Cyberbird99/SiteBlocker)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
   - [File Removal](https://github.com/Cyberbird99/OldFileRemoval)
