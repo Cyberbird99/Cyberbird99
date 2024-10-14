@@ -12,7 +12,7 @@
   - [Encoding](https://github.com/Cyberbird99/Encoding)
   - [Site Blocker](https://github.com/Cyberbird99/SiteBlocker)
   - [Password Hashing](https://github.com/Cyberbird99/PasswordHacking/tree/main)
-  - [Password Attacks] (https://github.com/Cyberbird99/Password-Attacks)
+  - [Password Attacks](https://github.com/Cyberbird99/Password-Attacks)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
   - [File Removal](https://github.com/Cyberbird99/OldFileRemoval)
