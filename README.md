@@ -14,7 +14,6 @@
   - [Password Hashing](https://github.com/Cyberbird99/PasswordHacking/tree/main)
   - [Password Attacks](https://github.com/Cyberbird99/Password-Attacks)
   - [Working With Log Files](https://github.com/Cyberbird99/Working-with-log-files)
-  - [Ip Scanners] (https://github.com/Cyberbird99/Ip-Scanners/tree/master)
   - [Ip Scanners](https://github.com/Cyberbird99/Ip-Scanners/tree/master)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
