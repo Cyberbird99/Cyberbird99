@@ -7,7 +7,7 @@
 - <b>Cybersecurity Automation with Python</b>
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
   - [Log Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
-  - [Scanners](https://github.com/Cyberbird99/Scanners)
+  - [Port Scanners](https://github.com/Cyberbird99/Scanners)
   - [Encryption](https://github.com/Cyberbird99/Encryption)
   - [Encoding](https://github.com/Cyberbird99/Encoding)
   - [Site Blocker](https://github.com/Cyberbird99/SiteBlocker)
