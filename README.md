@@ -8,7 +8,7 @@
   - [Pinging_Ips](https://github.com/Cyberbird99/Pinging_IPs)
   - [Log Analysis](https://github.com/Cyberbird99/Analyzing-Logs)
   - [Port Scanners](https://github.com/Cyberbird99/Scanners)
-  - [Encryption](https://github.com/Cyberbird99/Encryption)
+  - [ROT13](https://github.com/Cyberbird99/Encryption)
   - [Encoding](https://github.com/Cyberbird99/Encoding)
   - [Site Blocker](https://github.com/Cyberbird99/SiteBlocker)
   - [Password Hashing](https://github.com/Cyberbird99/PasswordHacking/tree/main)
