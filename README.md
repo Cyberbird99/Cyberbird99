@@ -17,6 +17,7 @@
   - [Ip Scanners](https://github.com/Cyberbird99/Ip-Scanners/tree/master)
   - [Password Manager](https://github.com/Cyberbird99/Password-Manager)
   - [Caesar Cipher](https://github.com/Cyberbird99/Caesar-Cipher)
+  - [SQLi Scanner](
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
   - [File Removal](https://github.com/Cyberbird99/OldFileRemoval)
