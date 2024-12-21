@@ -18,7 +18,7 @@
   - [Password Manager](https://github.com/Cyberbird99/Password-Manager)
   - [Caesar Cipher](https://github.com/Cyberbird99/Caesar-Cipher)
   - [SQLi Scanner](https://github.com/Cyberbird99/SQL_injection_scanner.git)
-  - [HTTP Socket Connection](https://github.com/Cyberbird99/Cyberbird99)
+  - [HTTP Socket Connection](https://github.com/Cyberbird99/HTTP-Socket-Client)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
   - [File Removal](https://github.com/Cyberbird99/OldFileRemoval)
