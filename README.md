@@ -20,6 +20,7 @@
   - [SQLi Scanner](https://github.com/Cyberbird99/SQL_injection_scanner.git)
   - [HTTP Socket Connection](https://github.com/Cyberbird99/HTTP-Socket-Client)
   - [Http Connection Request](https://github.com/Cyberbird99/http_connection)
+  - [HTTP-RESTAPI](https://github.com/Cyberbird99/HTTP-RESTAPI)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
   - [File Removal](https://github.com/Cyberbird99/OldFileRemoval)
