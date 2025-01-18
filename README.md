@@ -21,6 +21,7 @@
   - [HTTP Socket Connection](https://github.com/Cyberbird99/HTTP-Socket-Client)
   - [Http Connection Request](https://github.com/Cyberbird99/http_connection)
   - [HTTP-RESTAPI](https://github.com/Cyberbird99/HTTP-RESTAPI)
+  - [Windows Event Query](https://github.com/Cyberbird99/Event-Queries)
 - <b>Cybersecurity Automation with PowerShell</b>
   - [Creating Folders](https://github.com/Cyberbird99/creatingFolders)
   - [File Removal](https://github.com/Cyberbird99/OldFileRemoval)
