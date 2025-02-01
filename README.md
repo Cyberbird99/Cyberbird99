@@ -1,5 +1,5 @@
 <h1>  Hi, I'm Nizam! </h1>
-<h1>I'm a cybersecurity analyst.</h1> 
+<h1>I'm a cybersecurity professional</h1> 
 
 <h2>🔭 My Cybersecurity Projects:🔭</h2>
 
@@ -31,6 +31,7 @@
   - [File Creator](https://github.com/Cyberbird99/creatingFiles)
   - [Checking Lockouts](https://github.com/Cyberbird99/Checking-Lockouts)
   - [Web Scraping](https://github.com/Cyberbird99/Web-Scraping)
+  - [FTP Upload-Download](https://github.com/Cyberbird99/Ftp-Upload-Download)
 - <b>PowerShell Tips For Automation</b>
   - [Checking Files](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CheckingFiles)
   - [Creating Objects](https://github.com/Cyberbird99/PowerShell_Tips_for_Beginners/tree/main/CreatingObjects)
